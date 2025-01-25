@@ -1,0 +1,24 @@
+{
+  "name": "projeto-back-end",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelInocencio/Cadastro-de-Usuarios-Projeto-Back-End.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuelInocencio/Cadastro-de-Usuarios-Projeto-Back-End/issues"
+  },
+  "homepage": "https://github.com/SamuelInocencio/Cadastro-de-Usuarios-Projeto-Back-End#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
